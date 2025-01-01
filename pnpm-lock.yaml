@@ -15,8 +15,8 @@ importers:
         specifier: ^1.2.1
         version: 1.2.1
       '@vue-mini/pinia':
-        specifier: ^0.1.0
-        version: 0.1.0(@vue-mini/core@1.2.1)
+        specifier: ^0.1.1
+        version: 0.1.1(@vue-mini/core@1.2.1)
     devDependencies:
       '@babel/core':
         specifier: ^7.26.0
@@ -1158,8 +1158,8 @@ packages:
   '@vue-mini/core@1.2.1':
     resolution: {integrity: sha512-eaOEnD/WoLOUO170fj4ln1hS0KyayXfU8zCCxmp5y1aQLBh22TFX4g46fRBmiKg1MrkgeuEdb3k8w5r9alUFXQ==}
 
-  '@vue-mini/pinia@0.1.0':
-    resolution: {integrity: sha512-fi5Ou+sba7AVUI9oNLCGhszl5MoNDrBgYe0wien5jM6vITOarg1tc2Ivxb+GDpWpwrTd0+bEKDO6oS70KLNeEA==}
+  '@vue-mini/pinia@0.1.1':
+    resolution: {integrity: sha512-QpwqiEJDw2A7sEnQBEj4uvczKLgm42I9XUmppUoaLRiVITfCB/OvizDv47PKQi1VdagoY9dQRdoLmvsudDaEkg==}
     peerDependencies:
       '@vue-mini/core': ^1.2.1
 
@@ -3500,7 +3500,7 @@ snapshots:
       '@vue/reactivity': 3.5.13
       miniprogram-api-typings: 4.0.2
 
-  '@vue-mini/pinia@0.1.0(@vue-mini/core@1.2.1)':
+  '@vue-mini/pinia@0.1.1(@vue-mini/core@1.2.1)':
     dependencies:
       '@vue-mini/core': 1.2.1
 
